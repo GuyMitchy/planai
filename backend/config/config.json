@@ -1,0 +1,1 @@
+{ "development": { "username": "postgres", "password": "correct_password", "database": "plan_ai_dev", "host": "127.0.0.1", "dialect": "postgres" } }
